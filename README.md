@@ -15,5 +15,5 @@ Sou um *estudante de ciencias da computação* na CESAR School gosto de Programa
 ##  Contatos
 
 -  *E-mail*: [bssah@cesar.school](bssah@cesar.school)
--  *LinkedIn*: [Bruno Holanda]("https://www.linkedin.com/in/bruno-holanda-502aa9339/)
+-  *LinkedIn*: [Bruno Holanda](https://www.linkedin.com/in/bruno-holanda-502aa9339/)
 -  *Portfólio*: [SeuSite.com](https://github.com/Brno143/Portif-lio-web)
